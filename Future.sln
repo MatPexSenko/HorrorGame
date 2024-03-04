@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.Ascii.Demo", "OccaSoftware.Ascii.Demo.csproj", "{0D955CE2-4C5A-2C12-E617-138600C276A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{288CA6E5-7470-4264-123D-FC14282DF79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.Ascii.Runtime", "OccaSoftware.Ascii.Runtime.csproj", "{40034AF2-D0B9-280D-641A-E76E077F029C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D955CE2-4C5A-2C12-E617-138600C276A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D955CE2-4C5A-2C12-E617-138600C276A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D955CE2-4C5A-2C12-E617-138600C276A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D955CE2-4C5A-2C12-E617-138600C276A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288CA6E5-7470-4264-123D-FC14282DF79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288CA6E5-7470-4264-123D-FC14282DF79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288CA6E5-7470-4264-123D-FC14282DF79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288CA6E5-7470-4264-123D-FC14282DF79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40034AF2-D0B9-280D-641A-E76E077F029C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40034AF2-D0B9-280D-641A-E76E077F029C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40034AF2-D0B9-280D-641A-E76E077F029C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40034AF2-D0B9-280D-641A-E76E077F029C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
